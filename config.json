@@ -1,0 +1,15 @@
+{
+
+    "serverConfig": {
+      "host": "localhost",
+      "port": 5900
+    },
+    "cacheConfig": {
+      "capacity": 10
+    },
+    "dbConfig": {
+      "env": "Development",
+      "host": "localhost",
+      "port": 27017
+    }
+}
